@@ -10,7 +10,7 @@ export default function Recipe(props) {
         ingredients
     } = props
   return (
-    <div>
+    <div className="recipe">
       <div>
         <h3>{name}</h3>
         <div>
