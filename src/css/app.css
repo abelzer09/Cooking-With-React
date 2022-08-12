@@ -2,6 +2,7 @@
 @import 'font.css';
 @import 'buttons.css';
 @import 'recipe-list.css';
+@import 'ingredient-list.css';
 @import 'recipe.css';
 
 
@@ -19,5 +20,5 @@ body {
 }
 
 .mr-1 {
-    margin-right: 5px
+    margin-right: 5px;
 }
